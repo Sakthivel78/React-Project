@@ -1,0 +1,39 @@
+{
+  "List_of_Admins": [
+    {
+      "id": "Sakthi",
+      "username": "abcd", 
+      "email": "Sakthi@gmail.com",
+      "password": "1234",
+      "phone": "34567890"
+    },
+    {
+      "id": "AkAk",
+      "username": "abcd",
+      "email": "Aaak@gmail.com",
+      "password": "5678",
+      "phone": "34567890"
+    },
+    {
+      "id": "f4a2",
+      "username": " Sakthi",
+      "email": "Sakthi@gmail.com",
+      "password": " 1234",
+      "phone": " 34567890"
+    },
+    {
+      "id": "e3c3",
+      "username": " sakthi",
+      "email": " sakthivel@gmail.com",
+      "password": " 12345678901",
+      "phone": " 7708295043"
+    },
+    {
+      "id": "9809",
+      "username": " sakthi_vk",
+      "email": " sakthivk@gmail.com",
+      "password": " 12345",
+      "phone": " 9952618808"
+    }
+  ]
+}
